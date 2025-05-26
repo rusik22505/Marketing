@@ -1,0 +1,14 @@
+catboost==1.2.8
+geopandas==1.0.1
+lightgbm==4.6.0
+matplotlib==3.10.0
+matplotlib-inline==0.1.7
+numpy==1.26.4
+pandas==2.2.3
+pandas-stubs==2.2.3.250308
+phik==0.12.4
+scikit-learn==1.4.2
+seaborn==0.13.2
+statsmodels==0.14.4
+xgboost==3.0.0
+ydata-profiling==4.16.1
